@@ -5,7 +5,8 @@ const Feature = () => {
     return (
         <FeatureContainer>
             <h1>Meal of the Day</h1>
-            <p>Truffle alfredo sauce topped with 24 carat gold dust.</p>
+            {/* Special Kitfo */}
+            <p>Finely chopped prime lean beef seasoned with herbed butter sauce and spices served with cottage cheese and collard greens. Prepared rare, medium, or well done.</p>
             <FeatureButton>Order Now</FeatureButton>
         </FeatureContainer>
     )

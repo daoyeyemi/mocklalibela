@@ -24,7 +24,7 @@ const Hero = () => {
       <HeroContent>
         <HeroItems>
           <HeroH1>Authentic Ethiopian cuisine</HeroH1>
-          <HeroP>we believe food embodies family, community, tradition, culture, and traditions</HeroP>
+          <HeroP>we believe food embodies family, community, tradition, culture, and identity</HeroP>
           <HeroBtn>Place Order</HeroBtn>
         </HeroItems>
       </HeroContent>

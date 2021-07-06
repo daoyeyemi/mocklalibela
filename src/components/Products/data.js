@@ -1,35 +1,35 @@
-import product1 from '../../images/product-1.jpg';
-import product2 from '../../images/product-2.jpg';
-import product3 from '../../images/product-3.jpg';
-import sweet1 from '../../images/sweet3.jpg';
-import sweet2 from '../../images/sweet-2.jpg';
-import sweet3 from '../../images/sweet-3.jpg';
+import product1 from '../../images/Genfo.jpeg';
+import product2 from '../../images/Bula.jpeg';
+import product3 from '../../images/enqulalfirfir.jpeg';
+import sweet1 from '../../images/ful.jpeg';
+import sweet2 from '../../images/kinche.jpeg';
+import sweet3 from '../../images/chechesba.jpeg';
 
 export const productData = [
   {
     img: product1,
-    alt: 'Pizza',
-    name: 'Supreme Pizza',
+    alt: 'Genfo',
+    name: 'Genfo',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      'A smooth wheat porridge with a dash of cardamom, served with Ethiopian spiced butter and berbere chili pepper seasonings',
     price: '$19.99',
     button: 'Add to Cart'
   },
   {
     img: product2,
-    alt: 'Pizza',
-    name: 'Hawaiian Paradise',
+    alt: 'Bula',
+    name: 'Bula',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      'A grittier type of porridge made from ensete plant, aka false banana',
     price: '$16.99',
     button: 'Add to Cart'
   },
   {
     img: product3,
-    alt: 'Pizza',
-    name: 'Veggie Overload',
+    alt: 'Enqulal Fir-Fir',
+    name: 'Enqulal Fir-Fir',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      'Scrambled eggs prepared with a dash of Ethiopian spiced butter, and sliced jalapeños (fresh tomatoes and onions can bed added)',
     price: '$14.99',
     button: 'Add to Cart'
   }
@@ -38,28 +38,28 @@ export const productData = [
 export const productDataTwo = [
   {
     img: sweet2,
-    alt: 'Donuts',
-    name: 'Doughlicious',
+    alt: 'Ful',
+    name: 'Ful',
     desc:
-      'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
+      'Crushed fava beans, garnished with fresh-diced tomatoes, diced jalapeños, freshly ground black pepper, white onion, and sour cream served with French',
     price: '$9.99',
     button: 'Add to Cart'
   },
   {
     img: sweet3,
-    alt: 'Ice Cream',
-    name: 'Caramel Wonder',
+    alt: 'Kinche',
+    name: 'Kinche',
     desc:
-      'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
+      'Cracked wheat cooked to tender seasoned with Ethiopian spiced butter',
     price: '$12.99',
     button: 'Add to Cart'
   },
   {
     img: sweet1,
-    alt: 'Brownie',
-    name: 'Brownie Bunch',
+    alt: 'Chechesba',
+    name: 'Chechesba',
     desc:
-      'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
+      'Shredded pieces of flat bread lightly sautéed in berbere spices and Ethiopian spiced butter, topped with honey or butter.',
     price: '$9.99',
     button: 'Add to Cart'
   }
