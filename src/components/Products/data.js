@@ -59,7 +59,7 @@ export const productDataTwo = [
     alt: 'Chechesba',
     name: 'Chechesba',
     desc:
-      'Shredded pieces of flat bread lightly sautéed in berbere spices and Ethiopian spiced butter, topped with honey or butter.',
+      'Shredded pieces of flat bread lightly sautéed in berbere spices and Ethiopian spiced butter, topped with honey or butter',
     price: '$9.99',
     button: 'Add to Cart'
   }
