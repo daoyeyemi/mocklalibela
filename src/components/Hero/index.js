@@ -23,8 +23,8 @@ const Hero = () => {
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <HeroContent>
         <HeroItems>
-          <HeroH1>Greatest Pizza Ever</HeroH1>
-          <HeroP>Ready in 60 seconds</HeroP>
+          <HeroH1>Authentic Ethiopian cuisine</HeroH1>
+          <HeroP>we believe food embodies family, community, tradition, culture, and traditions</HeroP>
           <HeroBtn>Place Order</HeroBtn>
         </HeroItems>
       </HeroContent>
