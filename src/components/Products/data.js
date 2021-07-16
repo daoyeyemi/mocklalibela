@@ -1,9 +1,9 @@
-import product1 from '../../images/Genfo.jpeg';
-import product2 from '../../images/Bula.jpeg';
-import product3 from '../../images/enqulalfirfir.jpeg';
-import sweet1 from '../../images/ful.jpeg';
+import product1 from '../../images/pic1.jpg';
+import product2 from '../../images/pic2.jpg';
+import product3 from '../../images/pic3.jpg';
+import sweet1 from '../../images/pic4.jpg';
 import sweet2 from '../../images/kinche.jpeg';
-import sweet3 from '../../images/chechesba.jpeg';
+import sweet3 from '../../images/pic5.jpg';
 
 export const productData = [
   {
